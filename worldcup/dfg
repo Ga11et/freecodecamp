@@ -1,0 +1,36 @@
+ game_id | year | winner_id | opponent_id | winner_goals | opponent_goals |     round     
+---------+------+-----------+-------------+--------------+----------------+---------------
+      34 | 2018 |        26 |          27 |            4 |              2 | Final
+      35 | 2018 |        28 |          29 |            2 |              0 | Third Place
+      36 | 2018 |        27 |          29 |            2 |              1 | Semi-Final
+      37 | 2018 |        26 |          28 |            1 |              0 | Semi-Final
+      38 | 2018 |        27 |          30 |            3 |              2 | Quarter-Final
+      39 | 2018 |        29 |          31 |            2 |              0 | Quarter-Final
+      40 | 2018 |        28 |          32 |            2 |              1 | Quarter-Final
+      41 | 2018 |        26 |          33 |            2 |              0 | Quarter-Final
+      42 | 2018 |        29 |          34 |            2 |              1 | Eighth-Final
+      43 | 2018 |        31 |          35 |            1 |              0 | Eighth-Final
+      44 | 2018 |        28 |          36 |            3 |              2 | Eighth-Final
+      45 | 2018 |        32 |          37 |            2 |              0 | Eighth-Final
+      46 | 2018 |        27 |          38 |            2 |              1 | Eighth-Final
+      47 | 2018 |        30 |          39 |            2 |              1 | Eighth-Final
+      48 | 2018 |        33 |          40 |            2 |              1 | Eighth-Final
+      49 | 2018 |        26 |          41 |            4 |              3 | Eighth-Final
+      50 | 2014 |        42 |          41 |            1 |              0 | Final
+      51 | 2014 |        43 |          32 |            3 |              0 | Third Place
+      52 | 2014 |        41 |          43 |            1 |              0 | Semi-Final
+      53 | 2014 |        42 |          32 |            7 |              1 | Semi-Final
+      54 | 2014 |        43 |          44 |            1 |              0 | Quarter-Final
+      55 | 2014 |        41 |          28 |            1 |              0 | Quarter-Final
+      56 | 2014 |        32 |          34 |            2 |              1 | Quarter-Final
+      57 | 2014 |        42 |          26 |            1 |              0 | Quarter-Final
+      58 | 2014 |        32 |          45 |            2 |              1 | Eighth-Final
+      59 | 2014 |        34 |          33 |            2 |              0 | Eighth-Final
+      60 | 2014 |        26 |          46 |            2 |              0 | Eighth-Final
+      61 | 2014 |        42 |          47 |            2 |              1 | Eighth-Final
+      62 | 2014 |        43 |          37 |            2 |              1 | Eighth-Final
+      63 | 2014 |        44 |          48 |            2 |              1 | Eighth-Final
+      64 | 2014 |        41 |          35 |            1 |              0 | Eighth-Final
+      65 | 2014 |        28 |          49 |            2 |              1 | Eighth-Final
+(32 rows)
+
